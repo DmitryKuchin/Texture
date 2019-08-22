@@ -10,7 +10,7 @@ PODS:
     - PINCache/Core
   - PINCache/Core (3.0.1-beta.6):
     - PINOperation (~> 1.1.0)
-  - PINOperation (1.1.1)
+  - PINOperation (1.1.2)
   - PINRemoteImage (3.0.0-beta.13):
     - PINRemoteImage/FLAnimatedImage (= 3.0.0-beta.13)
     - PINRemoteImage/PINCache (= 3.0.0-beta.13)
@@ -54,9 +54,9 @@ SPEC CHECKSUMS:
   JGMethodSwizzler: 7328146117fffa8a4038c42eb7cd3d4c75006f97
   OCMock: 2cd0716969bab32a2283ff3a46fd26a8c8b4c5e3
   PINCache: d195fdba255283f7e9900a55e3cced377f431f9b
-  PINOperation: a6219e6fc9db9c269eb7a7b871ac193bcf400aac
+  PINOperation: 24b774353ca248fcf87d67b2d61eef42087c125a
   PINRemoteImage: d6d51c5d2adda55f1ce30c96e850b6c4ebd2856a
 
 PODFILE CHECKSUM: 42715d61f73cc22cc116bf80d7b268cb1f9e4742
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.5
