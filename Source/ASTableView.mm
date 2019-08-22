@@ -1535,7 +1535,7 @@ static NSString * const kCellReuseIdentifier = @"_ASTableViewCell";
     return;
   }
 
-  BOOL shouldAdjustContentOffset = (_automaticallyAdjustsContentOffset && !changeSet.includesReloadData);
+  BOOL shouldAdjustContentOffset = YES;// (_automaticallyAdjustsContentOffset && !changeSet.includesReloadData);
   if (shouldAdjustContentOffset) {
     [self beginAdjustingContentOffset];
   }
